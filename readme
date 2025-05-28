@@ -1,1 +1,12 @@
+# Supply Chain Causal Analysis for Electrolux Project
+
+## Causal Questions Addressed:
+- Effect of shipping carriers on delivery performance
+- Causal impact of pricing on demand patterns
+- Intervention analysis for supply chain optimization
+
+## Technologies Used:
+- causal-learn for causal discovery
+- DoWhy for causal effect estimation
+- pgmpy for probabilistic modeling
 
