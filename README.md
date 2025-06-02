@@ -144,7 +144,7 @@ stats_text = (
 
 **Aniket Mishra**
 - GitHub: [@Aniketxmishra](https://github.com/Aniketxmishra)
-- Email: aniketmishrarr@gmail.com
+- Email: anik8mishra@gmail.com
 - Project: [Supply Chain Causal Analysis](https://github.com/Aniketxmishra/supplyChainAnalysis)
 
 ## 📝 License
